@@ -1,4 +1,4 @@
-Computer Networks
+# Computer Networks
 
 This repository contains my Computer Networks lab tasks and assignments.
 
